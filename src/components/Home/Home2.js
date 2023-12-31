@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            a passionate and detail-oriented software developer with one year of valuable experience 
+            A passionate and detail-oriented software developer with one year of valuable experience 
             in the field.
             I have adeptly transitioned into this dynamic field, showcasing my proficiency 
             in an array of cutting-edge frontend technologies,including 
