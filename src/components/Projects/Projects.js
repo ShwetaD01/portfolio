@@ -26,7 +26,7 @@ function Projects() {
               title="Netflix-GPT"
               description="Exceptional movie recommendation platform, blending cutting-edge AI capabilities, robust user authentication, efficient state management, and a visually appealing design"
               ghLink="https://github.com/Shweta-819/NetflixGpt"
-              demoLink="https://netflixgpt-2cd07.web.app/"
+              demoLink="https://main--luxury-kelpie-561e1c.netlify.app/"
             />
           </Col>
 
